@@ -1,0 +1,29 @@
+﻿  mainGrafkom3d.cpp
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(8,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(9,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(183,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(302,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(322,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(333,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(338,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(418,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(444,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(447,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(449,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(462,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(464,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(476,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(478,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(490,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(515,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(518,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(520,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(540,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(547,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(556,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(565,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(574,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(581,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(588,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\mainGrafkom3d.cpp(92,8): warning C4101: 'fun': unreferenced local variable
+  Grafkom3d.vcxproj -> C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Debug\Grafkom3d.exe

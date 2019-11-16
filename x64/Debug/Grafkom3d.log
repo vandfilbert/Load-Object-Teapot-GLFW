@@ -1,0 +1,62 @@
+﻿  mainGrafkom3d.cpp
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(8,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(9,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(40,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(345,151): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(347,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(349,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(351,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(357,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(395,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(396,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(398,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(399,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(408,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(413,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(415,1): warning C4091: '': ignored on left of 'int' when no variable is declared
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(421,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(429,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(568,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(588,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(599,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(604,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Shape.h(730,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function "void __cdecl initializeGLEW(void)" (?initializeGLEW@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwInit referenced in function "void __cdecl initializeGLFW(void)" (?initializeGLFW@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function "void __cdecl cleanup(void)" (?cleanup@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function "void __cdecl initializeGLFW(void)" (?initializeGLFW@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function "void __cdecl initializeWindow(void)" (?initializeWindow@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function "void __cdecl render(void)" (?render@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwSetFramebufferSizeCallback referenced in function "void __cdecl initializeWindow(void)" (?initializeWindow@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function "void __cdecl render(void)" (?render@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwSetInputMode referenced in function "void __cdecl initializeWindow(void)" (?initializeWindow@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function "void __cdecl render(void)" (?render@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwGetCursorPos referenced in function "void __cdecl mouseClickEvent(struct GLFWwindow *,int,int,int)" (?mouseClickEvent@@YAXPEAUGLFWwindow@@HHH@Z)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwSetKeyCallback referenced in function "void __cdecl initializeWindow(void)" (?initializeWindow@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwSetMouseButtonCallback referenced in function "void __cdecl initializeWindow(void)" (?initializeWindow@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwSetCursorPosCallback referenced in function "void __cdecl initializeWindow(void)" (?initializeWindow@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function "void __cdecl initializeGLEW(void)" (?initializeGLEW@@YAXXZ)
+mainGrafkom3d.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function "void __cdecl render(void)" (?render@@YAXXZ)
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewDeleteBuffers
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewDeleteShader
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewDetachShader
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewDisableVertexAttribArray
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramInfoLog
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramiv
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewDeleteVertexArrays
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+mainGrafkom3d.obj : error LNK2001: unresolved external symbol __imp_glewExperimental
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Dependencies\glew-2.1.0-win32\glew-2.1.0\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Dependencies\glfw-3.3.bin.WIN32\glfw-3.3.bin.WIN32\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\Dependencies\glfw-3.3.bin.WIN32\glfw-3.3.bin.WIN32\lib-vc2019\glfw3dll.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\Grafkom3d\x64\Debug\Grafkom3d.exe : fatal error LNK1120: 35 unresolved externals
